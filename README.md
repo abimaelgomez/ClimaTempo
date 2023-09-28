@@ -76,10 +76,17 @@ Passo 5: Execução e Teste
     - Crie uma rota de solicitação HTTP para sua API Node-RED, se ainda não existir. Isso permitirá que você faça solicitações para sua API e obtenha dados meteorológicos em tempo real.
 
     - Acesse sua API usando uma ferramenta como curl, Postman ou um navegador da web. Certifique-se de incluir os parâmetros necessários, como a cidade ou o código postal.
+![image](https://github.com/abimaelgomez/ClimaTempo/assets/123669805/99677d4b-449a-4c0e-ab09-30f1e2f79d75)
+-Escolhi a cidade de SP então todos os dados consumidos serão da cidade de São Paulo.
+
 
     - Analise os resultados e verifique se você está recebendo os dados meteorológicos corretos da "Weather API".
+![ObjetoJSOn](https://github.com/abimaelgomez/ClimaTempo/assets/123669805/334658a4-1bdd-4c60-bb2f-7bc387152466)
+
 
     - Após configurar o DashBoard ficará assim:
+Podemos acessar o dashboard pelo end-point: 
+http://127.0.0.1:1880/ui
 ![DashBoard](https://github.com/abimaelgomez/ClimaTempo/assets/123669805/c08ccef1-01d1-4276-b8dd-910ac42cc69d)
 
     
